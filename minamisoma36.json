@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[141.02,37.5900001],[141.04,37.6100001],[140.0400001,37.61],[141.0200001,37.59],[141.02,37.5900001]]]},"properties":{"name":"福島","valuePerSqm":10000000,"growth":1}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.999,37.5690001],[141.019,37.5890001],[140.0190001,37.589],[140.9990001,37.569],[140.999,37.5690001]]]},"properties":{"name":"福島","valuePerSqm":3000000,"growth":1}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[141.041,37.6110001],[141.061,37.6310001],[140.0610001,37.631],[141.0410001,37.611],[141.041,37.6110001]]]},"properties":{"name":"福島","valuePerSqm":3000000,"growth":1}}
+  ]
+}
