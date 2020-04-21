@@ -2,10 +2,10 @@
   "type": "FeatureCollection",
   "features": [
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.8,36.955],[140.95,37.105],[140.95,37.1051],[140.8,36.9551],[140.8,36.955]]]},"properties":{"name":"福島","valuePerSqm":200000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.7,36.855],[140.85,37.005],[140.85,37.0051],[140.7,36.8551],[140.7,36.855]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.9,37.055],[141.05,37.205],[141.05,37.2051],[140.9,37.0551],[140.9,37.055]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.5,36.6855],[140.65,36.805],[140.65,36.8051],[140.5,36.6551],[140.5,36.655]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[141.1,37.255],[141.25,37.405],[141.25,37.4051],[141.2,37.2551],[141.2,37.255]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.9,35.18],[137.05,35.33],[137.05,35.3301],[136.9,35.1801],[136.9,35.18]]]},"properties":{"name":"名古屋","valuePerSqm":200000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.8,35.08],[136.95,35.23],[136.95,35.3201],[136.8,35.0801],[136.8,35.08]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[137,35.28],[137.15,35.43],[137.15,35.4301],[137,35.2801],[137,35.28]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}}
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.6,34.88],[136.75,35.03],[136.75,35.0201],[136.6,34.8801],[136.6,34.88]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[137.2,35.48],[137.35,35.63],[137.35,35.7301],[137.2,35.4801],[137.2,35.48]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}}
   ]
 }
