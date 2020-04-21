@@ -7,5 +7,5 @@
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.9,35.18],[136.99,35.27],[136.99,35.2701],[136.9,35.1801],[136.9,35.18]]]},"properties":{"name":"名古屋","valuePerSqm":200000000,"growth":1}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.5,34.78],[136.59,35.87],[136.59,35.8701],[136.5,35.7801],[136.5,35.78]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}},
 {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[137.3,35.58],[137.39,35.67],[137.39,35.6701],[137.3,35.5801],[137.3,35.58]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}}
-  ]
+  ] 
 }
