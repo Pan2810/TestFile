@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "features": [
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.0,38.055],[140.15,38.205],[140.15,38.2051],[140.0,38.0551],[140.0,38.055]]]},"properties":{"name":"福島","valuePerSqm":200000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[139.8,37.855],[139.95,38.005],[139.95,38.0051],[139.8,37.8551],[139.8,37.855]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
-	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.2,38.255],[140.35,38.405],[140.35,38.4051],[140.2,38.2551],[140.2,38.255]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.5,38.055],[140.65,38.205],[140.65,38.2051],[140.5,38.0551],[140.5,38.055]]]},"properties":{"name":"福島","valuePerSqm":200000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.3,37.855],[140.45,38.005],[140.45,38.0051],[140.3,37.8551],[140.3,37.855]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
+	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[140.7,38.255],[140.85,38.405],[140.85,38.4051],[140.7,38.2551],[140.7,38.255]]]},"properties":{"name":"福島","valuePerSqm":70000000,"growth":1}},
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.9,35.18],[137.05,35.33],[137.05,35.3301],[136.9,35.1801],[136.9,35.18]]]},"properties":{"name":"名古屋","valuePerSqm":200000000,"growth":1}},
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.7,34.98],[136.85,35.13],[136.85,35.1301],[136.7,34.9801],[136.7,34.98]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}},
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[137.1,35.38],[137.25,35.53],[137.25,35.5301],[137.1,35.3801],[137.1,35.38]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}}
