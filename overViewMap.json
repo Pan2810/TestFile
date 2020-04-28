@@ -8,4 +8,4 @@
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[136.7,34.98],[136.85,35.13],[136.85,35.1301],[136.7,34.9801],[136.7,34.98]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}},
 	{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[137.1,35.38],[137.25,35.53],[137.25,35.5301],[137.1,35.3801],[137.1,35.38]]]},"properties":{"name":"名古屋","valuePerSqm":70000000,"growth":1}}
   ]
-}
+} 
