@@ -6,6 +6,3 @@
     {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[141.07,37.66],[141.12,37.71],[141.12,37.711],[141.07,37.661],[141.07,37.66]]]},"properties":{"name":"福島","valuePerSqm":7000000,"growth":1}}
   ]
 }
-
-  ]
-}
